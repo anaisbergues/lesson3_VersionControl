@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Feb 4th, 2017
 
 ## Student Name:  
-(First and Last Name)
+Anais Bergues
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I learned what a version control system is and how it works 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. What is a version control system and its purpose
+2. The importance of git and how it could be useful in everytday life
+3. How Git works and basic commands
